@@ -1,5 +1,5 @@
 # NotEnoughRacism 
-Latest Version: 3.0.1 | Last Updated: Jan 24th 2022
+Latest Version: 3.0.1 | Last Updated: Jan 25th 2022
 <div class="zzz" allign="left">
 <img src="https://cdn.discordapp.com/icons/904778713361698816/9990f7855310d3c6f887023176875a87.png?size=256">
   </div>
